@@ -1,0 +1,10 @@
+{
+  "name": "hubot-wallabag",
+  "description": "A hubot script to share your link to a wallabag instance",
+  "version": "0.1.0",
+  "author": "IT Team <it@bepark.eu>",
+  "dependencies": {
+	"request":""
+  },
+  "main": "index.coffee"
+}
